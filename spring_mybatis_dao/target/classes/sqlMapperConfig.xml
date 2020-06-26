@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <!--加载外部properties文件-->
+    <properties resource="jdbc.properties"></properties>
+    <!--配置别名-->
+    <typeAliases>
+        <typeAlias type="com.ahut.domain.User" alias="user"></typeAlias>
+    </typeAliases>
+    <!--    配数据源的环境-->
+    <environments default="dev">
+            <!--dev-->
+        <environment id="dev">
+                <!-- 事务管理器 -->
+            <transactionManager type="JDBC"></transactionManager>
+                <!-- 数据源 -->
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.drive}"></property>
+                <property name="url" value="${jdbc.url}"></property>
+                <property name="username" value="${jdbc.username}"></property>
+                <property name="password" value="${jdbc.password}"></property>
+            </dataSource>
+        </environment>
+
+    </environments>
+
+    <!--加载映射文件-->
+    <mappers>
+        <mapper resource="com/ahut/mapper/UserMapper.xml"></mapper>
+    </mappers>
+
+
+</configuration>
+<!--核心配置文件-->
