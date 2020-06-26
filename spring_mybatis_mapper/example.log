@@ -1,0 +1,56 @@
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==>  Preparing: select * from live_users where id=? and name=? and password=? 
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==> Parameters: 3(Integer), zhangsan(String), 1234567zs(String)
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - <==      Total: 0
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 143695640.
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==>  Preparing: select * from live_users where 1=1 and id=? 
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==> Parameters: 3(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 2143431083.
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==>  Preparing: select * from live_users WHERE id=? 
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==> Parameters: 3(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 715378067.
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==>  Preparing: select * from live_users WHERE id=? 
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==> Parameters: 3(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findByIds - ==>  Preparing: select * from live_users WHERE id in( ? ) 
+DEBUG main com.ahut.mapper.UserMapper.findByIds - ==> Parameters: 1(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findByIds - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 715378067.
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==>  Preparing: select * from live_users WHERE id=? 
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - ==> Parameters: 3(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findByCondition - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findByIds - ==>  Preparing: select * from live_users WHERE id in( ? ) 
+DEBUG main com.ahut.mapper.UserMapper.findByIds - ==> Parameters: 1(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findByIds - <==      Total: 1
