@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ede734ea-02fb-4cea-aab8-3e2c878b372d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/spring_mybatis_mapper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/main/java/com/ahut/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/main/java/com/ahut/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/main/resources/com/ahut/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/main/resources/sqlMapperConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_mybatis_mapper/src/test/java/com/ahut/test/MapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ede734ea-02fb-4cea-aab8-3e2c878b372d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/spring_aop/target/" />
     <ignored path="$PROJECT_DIR$/spring_ioc/target/" />
     <ignored path="$PROJECT_DIR$/spring_ioc_anno/target/" />
@@ -71,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/spring_mybatis_mapper/src/main/resources/com/ahut/mapper/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -79,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring_mybatis_mapper/src/test/java/com/ahut/test/MapperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+            <state relative-caret-position="213">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1113#1122#0" expanded="true" />
@@ -232,39 +217,6 @@
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_mybatis_mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_mybatis_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_mybatis_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_mybatis_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_mybatis_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -512,7 +464,7 @@
       <workItem from="1592810359171" duration="4646000" />
       <workItem from="1592818278194" duration="2115000" />
       <workItem from="1592873472895" duration="40605000" />
-      <workItem from="1593130012265" duration="20335000" />
+      <workItem from="1593130012265" duration="20585000" />
     </task>
     <task id="LOCAL-00001" summary="creat project">
       <created>1593153693480</created>
@@ -549,7 +501,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593156552854</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="16.23">
+      <created>1593159844922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593159844922</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6/25 16.23">
+      <created>1593159924704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593159924704</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -585,7 +551,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69538000" />
+    <option name="totallyTimeSpent" value="69788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,7 +565,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.227224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.227224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -609,7 +575,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994641" visible="true" weight="0.4162042" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994641" weight="0.4162042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -686,7 +652,9 @@
     <MESSAGE value="creat project" />
     <MESSAGE value="new" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="16.23" />
+    <MESSAGE value="6/25 16.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/25 16.23" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spring_aop/src/main/java/com/ahut/anno/Target.java">
@@ -1058,14 +1026,14 @@
     <entry file="file://$PROJECT_DIR$/spring_mybatis_mapper/src/main/resources/com/ahut/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_mybatis_mapper/src/test/java/com/ahut/test/MapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        <state relative-caret-position="213">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1113#1122#0" expanded="true" />
