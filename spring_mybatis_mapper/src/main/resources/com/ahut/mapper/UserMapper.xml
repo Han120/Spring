@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ahut.mapper.UserMapper">
+
+
+    <!--sql语句的抽取-->
+    <sql id="selectUsers"> select * from live_users</sql>
+
+    <!--按条件查询 if-->
+    <select id="findByCondition" resultType="user" parameterType="user">
+        <include refid="selectUsers"></include>
+        <where>
+            <if test="id!=0">
+                and id=#{id}
+            </if>
+            <if test="name!=null">
+                and name=#{name}
+            </if>
+            <if test="password!=null">
+                and password=#{password}
+            </if>
+        </where>
+    </select>
+    <!--foreach-->
+    <select id="findByIds" resultType="user" parameterType="list">
+        <include refid="selectUsers"></include>
+        <where>
+            <foreach collection="list" open="id in(" close=")" item="id" separator=",">
+                #{id}
+            </foreach>
+        </where>
+    </select>
+
+</mapper>
+<!--映射文件-->
