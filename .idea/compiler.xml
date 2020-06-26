@@ -10,6 +10,7 @@
         <module name="spring_mybatis_mapper" />
         <module name="spring_aop" />
         <module name="spring_ioc_anno" />
+        <module name="spring_mybatis_config" />
         <module name="spring_mybatis_dao" />
         <module name="spring_ioc" />
         <module name="spring_jdbc" />
@@ -21,6 +22,7 @@
       <module name="spring_ioc_anno" target="1.8" />
       <module name="spring_jdbc" target="1.8" />
       <module name="spring_mybatis" target="1.8" />
+      <module name="spring_mybatis_config" target="1.8" />
       <module name="spring_mybatis_dao" target="1.8" />
       <module name="spring_mybatis_mapper" target="1.8" />
     </bytecodeTargetLevel>

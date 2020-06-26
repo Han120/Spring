@@ -1,0 +1,344 @@
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 726950788.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), hanzijian(String), 123456(String), 2020-06-26 16:50:14.578(Timestamp)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 550752602.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), hanzijian(String), 123456(String), 1593162329269(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 556529265.
+DEBUG main com.ahut.mapper.UserMapper.findById - ==>  Preparing: select * from user where id=? 
+DEBUG main com.ahut.mapper.UserMapper.findById - ==> Parameters: 0(Integer)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 556529265.
+DEBUG main com.ahut.mapper.UserMapper.findById - ==>  Preparing: select * from user where id=? 
+DEBUG main com.ahut.mapper.UserMapper.findById - ==> Parameters: 0(Integer)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 556529265.
+DEBUG main com.ahut.mapper.UserMapper.findById - ==>  Preparing: select * from user where id=? 
+DEBUG main com.ahut.mapper.UserMapper.findById - ==> Parameters: 1(Integer)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 556529265.
+DEBUG main com.ahut.mapper.UserMapper.findById - ==>  Preparing: select * from user where id=? 
+DEBUG main com.ahut.mapper.UserMapper.findById - ==> Parameters: 1(Integer)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1418334255.
+DEBUG main com.ahut.mapper.UserMapper.findById - ==>  Preparing: select * from user where id=? 
+DEBUG main com.ahut.mapper.UserMapper.findById - ==> Parameters: 0(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findById - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), hanzijian(String), 123456(String), 2020-06-26 17:22:58(String)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), 1593163985000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 492079624.
+DEBUG main com.ahut.mapper.UserMapper.findById - ==>  Preparing: select * from user where id=? 
+DEBUG main com.ahut.mapper.UserMapper.findById - ==> Parameters: 0(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findById - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), 1593164096000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), 1593164159000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1261764601.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), 1593164198000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), 1593164264000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), 1593164699000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), hanzijian(String), 123456(String), 1593164787000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 1(Integer), hanzijian(String), 123456(String), 1593164822000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 492079624.
+DEBUG main com.ahut.mapper.UserMapper.findById - ==>  Preparing: select * from user where id=? 
+DEBUG main com.ahut.mapper.UserMapper.findById - ==> Parameters: 1(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findById - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 0(Integer), hanzijian(String), 123456(String), 1593164871000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 1(Integer), hanzijian(String), 123456(String), 1593164885000(Long)
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 346224929.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 2(Integer), hanzijian(String), 123456(String), 1593164893000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1526298704.
+DEBUG main com.ahut.mapper.UserMapper.findAll - ==>  Preparing: select * from user 
+DEBUG main com.ahut.mapper.UserMapper.findAll - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll - <==      Total: 3
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1526298704.
+DEBUG main com.ahut.mapper.UserMapper.findAll - ==>  Preparing: select * from user 
+DEBUG main com.ahut.mapper.UserMapper.findAll - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll - <==      Total: 3
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 226744878.
+DEBUG main com.ahut.mapper.UserMapper.findAll - ==>  Preparing: select * from user 
+DEBUG main com.ahut.mapper.UserMapper.findAll - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll - <==      Total: 3
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 802600647.
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==>  Preparing: SELECT count(*) FROM user 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 0(Integer), 2(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 2
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 433287555.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 3(Integer), hanzijian(String), 123456(String), 1593165981000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 433287555.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 4(Integer), hanzijian(String), 123456(String), 1593165989000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 433287555.
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 5(Integer), hanzijian(String), 123456(String), 1593166055000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 6(Integer), hanzijian(String), 123456(String), 1593166056000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 7(Integer), hanzijian(String), 123456(String), 1593166056000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 8(Integer), hanzijian(String), 123456(String), 1593166056000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 9(Integer), hanzijian(String), 123456(String), 1593166056000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main com.ahut.mapper.UserMapper.save - ==>  Preparing: insert into user values(?,?,?,?) 
+DEBUG main com.ahut.mapper.UserMapper.save - ==> Parameters: 10(Integer), hanzijian(String), 123456(String), 1593166056000(Long)
+DEBUG main com.ahut.mapper.UserMapper.save - <==    Updates: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 802600647.
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==>  Preparing: SELECT count(*) FROM user 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 2(Integer), 2(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 2
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 802600647.
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==>  Preparing: SELECT count(*) FROM user 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 2(Integer), 2(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 2
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 802600647.
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==>  Preparing: SELECT count(*) FROM user 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 10(Integer), 2(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 802600647.
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==>  Preparing: SELECT count(*) FROM user 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 10(Integer), 2(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 1
