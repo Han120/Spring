@@ -2,7 +2,6 @@ package com.ahut.dao;
 
 import com.ahut.domain.User;
 
-import java.io.IOException;
 import java.util.List;
 
 /**
@@ -10,5 +9,7 @@ import java.util.List;
  * @create 2020-06-26 11:27
  */
 public interface UserMapper {
-    public List<User> findAll() throws IOException;
+    public List<User> findAll();
+    public User findOne(int id);
+
 }
