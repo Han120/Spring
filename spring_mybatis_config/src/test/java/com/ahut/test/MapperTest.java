@@ -82,18 +82,18 @@ public class MapperTest {
 
         //获得与分页相关的参数
         PageInfo<User> pageInfo=new PageInfo<User>(userList);
-        System.out.println("当前页"+pageInfo.getPageNum());
-        System.out.println("每页显示条数"+pageInfo.getPageSize());
-        System.out.println("总页数"+pageInfo.getPages());
-        System.out.println("总条数"+pageInfo.getTotal());
-        System.out.println("上一页"+pageInfo.getPrePage());
-        System.out.println("下一页"+pageInfo.getNextPage());
-        System.out.println("第一页"+pageInfo.getFirstPage());
-        System.out.println("最后一页"+pageInfo.getLastPage());
-        System.out.println("是否是第一页"+pageInfo.isIsFirstPage());
-        System.out.println("是否是最后一页"+pageInfo.isIsLastPage());
-        System.out.println("endrow"+pageInfo.getEndRow());
-        System.out.println("startrow"+pageInfo.getStartRow());
+        System.out.println("当前页："+pageInfo.getPageNum());
+        System.out.println("每页显示条数："+pageInfo.getPageSize());
+        System.out.println("总页数："+pageInfo.getPages());
+        System.out.println("总条数："+pageInfo.getTotal());
+        System.out.println("上一页："+pageInfo.getPrePage());
+        System.out.println("下一页："+pageInfo.getNextPage());
+        System.out.println("第一页："+pageInfo.getFirstPage());
+        System.out.println("最后一页："+pageInfo.getLastPage());
+        System.out.println("是否是第一页："+pageInfo.isIsFirstPage());
+        System.out.println("是否是最后一页："+pageInfo.isIsLastPage());
+        System.out.println("结束条数："+pageInfo.getEndRow());
+        System.out.println("开始条数："+pageInfo.getStartRow());
 
     }
 

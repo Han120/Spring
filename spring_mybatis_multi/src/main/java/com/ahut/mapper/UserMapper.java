@@ -9,7 +9,6 @@ import java.util.List;
  * @create 2020-06-26 15:36
  */
 public interface UserMapper {
-       public void save(User pUser);
-       public User findById(int id);
-       public List<User> findAll();
+    public List<User> findAll();
+
 }

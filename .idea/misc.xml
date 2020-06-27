@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/spring_mybatis_dao/pom.xml" />
         <option value="$PROJECT_DIR$/spring_mybatis_mapper/pom.xml" />
         <option value="$PROJECT_DIR$/spring_mybatis_config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mybatis_multi/pom.xml" />
       </list>
     </option>
   </component>

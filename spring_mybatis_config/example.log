@@ -342,3 +342,29 @@ DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total:
 DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
 DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 10(Integer), 2(Integer)
 DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 802600647.
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==>  Preparing: SELECT count(*) FROM user 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 10(Integer), 2(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 1
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 802600647.
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==>  Preparing: SELECT count(*) FROM user 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper_Count - <==      Total: 1
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==>  Preparing: select * from user limit ?,? 
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - ==> Parameters: 10(Integer), 2(Integer)
+DEBUG main com.ahut.mapper.UserMapper.findAll_PageHelper - <==      Total: 1

@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring_mybatis_config/spring_mybatis_config.iml" filepath="$PROJECT_DIR$/spring_mybatis_config/spring_mybatis_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mybatis_dao/spring_mybatis_dao.iml" filepath="$PROJECT_DIR$/spring_mybatis_dao/spring_mybatis_dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mybatis_mapper/spring_mybatis_mapper.iml" filepath="$PROJECT_DIR$/spring_mybatis_mapper/spring_mybatis_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mybatis_multi/spring_mybatis_multi.iml" filepath="$PROJECT_DIR$/spring_mybatis_multi/spring_mybatis_multi.iml" />
     </modules>
   </component>
 </project>
