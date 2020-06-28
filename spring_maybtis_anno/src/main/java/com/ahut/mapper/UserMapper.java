@@ -37,4 +37,22 @@ public interface UserMapper {
 
     )
     public List<User> findOrders();
+
+
+
+
+    //多对多
+    @Select("select * from user")
+    @Results({
+            @Result(id=true,column = "id",property = "id"),
+            @Result(column = "username",property = "username"),
+            @Result(column = "password",property = "password"),
+            @Result(
+                    column = "id",
+                    property = "roleList",
+                    javaType = List.class,
+                    many=@Many(select ="com.ahut.mapper.RoleMapper.findByUserId" )
+            )
+    })
+    public List<User> findRoles();
 }

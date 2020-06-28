@@ -14,6 +14,7 @@ import java.util.List;
  * @create 2020-06-27 18:07
  */
 public interface OrderMapper {
+    //一对一
 /*//    方法一
     @Select("SELECT *,o.id oid FROM orders o ,user u WHERE o.uid=u.id")
     @Results({

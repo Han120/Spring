@@ -16,6 +16,8 @@ public class User {
         return id;
     }
 
+    private List<Role> roleList;
+
     public void setId(int pId) {
         id = pId;
     }
@@ -44,6 +46,14 @@ public class User {
         orderList = pOrderList;
     }
 
+    public List<Role> getRoleList() {
+        return roleList;
+    }
+
+    public void setRoleList(List<Role> pRoleList) {
+        roleList = pRoleList;
+    }
+
     @Override
     public String toString() {
         return "User{" +
@@ -51,6 +61,7 @@ public class User {
                 ", username='" + username + '\'' +
                 ", password='" + password + '\'' +
                 ", orderList=" + orderList +
+                ", roleList=" + roleList +
                 '}';
     }
 }

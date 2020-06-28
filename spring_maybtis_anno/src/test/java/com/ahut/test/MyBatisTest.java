@@ -122,4 +122,19 @@ public class MyBatisTest {
             System.out.println(user);
         }
     }
+    //多对多
+    @Test
+    public void test7() throws IOException {
+
+        InputStream resourceAsStream = Resources.getResourceAsStream("sqlMapperConfig.xml");
+        SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(resourceAsStream);
+        SqlSession sqlSession = sqlSessionFactory.openSession(true);
+
+        UserMapper mapper = sqlSession.getMapper(UserMapper.class);
+
+        List<User> userList = mapper.findRoles();
+        for(User user:userList) {
+            System.out.println(user);
+        }
+    }
 }
