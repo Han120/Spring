@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede734ea-02fb-4cea-aab8-3e2c878b372d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/RoleMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/OrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/OrderMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_maybtis_anno/src/test/java/com/ahut/test/MyBatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_maybtis_anno/src/test/java/com/ahut/test/MyBatisTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_aop/target/" />
     <ignored path="$PROJECT_DIR$/spring_ioc/target/" />
@@ -49,86 +44,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/main/resources/sqlMapperConfig.xml">
+        <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/java/com/ahut/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/java/com/ahut/test/JdbcTemplateCRUDTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_jdbc/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-969">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/test/java/com/ahut/test/MyBatisTest.java">
+        <entry file="file://$PROJECT_DIR$/spring_mybatis_multi/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="122" column="9" lean-forward="true" selection-start-line="122" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
+            <state relative-caret-position="646">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="34" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/domain/Role.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/domain/User.java">
+        <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/java/com/ahut/test/JdbcTemplateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-              <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#919#920#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_mybatis_multi/src/test/java/com/ahut/test/MapperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
-              <caret line="65" column="5" selection-start-line="52" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/OrderMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/RoleMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="53" column="66" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="66" />
+            <state relative-caret-position="152">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -219,7 +188,8 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="F:\maveRepository" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -289,44 +259,51 @@
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ahut" type="462c0819:PsiDirectoryNode" />
@@ -334,9 +311,9 @@
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ahut" type="462c0819:PsiDirectoryNode" />
@@ -345,66 +322,10 @@
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_jdbc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ahut" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ahut" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_maybtis_anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ahut" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
@@ -582,7 +503,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.40684068" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -620,7 +541,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyBatisTest.test7">
+  <component name="RunManager" selected="JUnit.JdbcTemplateCRUDTest.testQueryCcount">
+    <configuration name="JdbcTemplateCRUDTest.testQueryCcount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ahut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ahut.test.JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="testQueryCcount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyBatisTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring_maybtis_anno" />
       <extension name="coverage">
@@ -632,22 +569,6 @@
       <option name="PACKAGE_NAME" value="com.ahut.test" />
       <option name="MAIN_CLASS_NAME" value="com.ahut.test.MyBatisTest" />
       <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyBatisTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_maybtis_anno" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ahut.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ahut.test" />
-      <option name="MAIN_CLASS_NAME" value="com.ahut.test.MyBatisTest" />
-      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -773,20 +694,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MyBatisTest.test3" />
       <item itemvalue="JUnit.MyBatisTest.test1" />
       <item itemvalue="JUnit.MyBatisTest.test5" />
       <item itemvalue="JUnit.MyBatisTest.test6" />
       <item itemvalue="JUnit.MyBatisTest.test7" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.56" />
+      <item itemvalue="JUnit.JdbcTemplateCRUDTest.testQueryCcount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.testQueryCcount" />
         <item itemvalue="JUnit.MyBatisTest.test7" />
         <item itemvalue="JUnit.MyBatisTest.test6" />
         <item itemvalue="JUnit.MyBatisTest.test5" />
         <item itemvalue="JUnit.MyBatisTest.test1" />
-        <item itemvalue="JUnit.MyBatisTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -809,7 +730,7 @@
       <workItem from="1593228334634" duration="7788000" />
       <workItem from="1593250975700" duration="3914000" />
       <workItem from="1593303029231" duration="3474000" />
-      <workItem from="1593306990013" duration="229000" />
+      <workItem from="1593306990013" duration="3566000" />
     </task>
     <task id="LOCAL-00001" summary="creat project">
       <created>1593153693480</created>
@@ -888,13 +809,17 @@
       <option name="project" value="LOCAL" />
       <updated>1593303244953</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="6/28 9.20">
+      <created>1593307249663</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593307249663</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyBatisTest_test1 - 2020.06.27 at 18h 01m 44s.xml">
-      <configuration name="MyBatisTest.test1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyBatisTest_test5 - 2020.06.27 at 18h 15m 42s.xml">
       <configuration name="MyBatisTest.test5" configurationId="JUnit" />
     </history-entry>
@@ -922,9 +847,12 @@
     <history-entry file="MyBatisTest_test7 - 2020.06.28 at 09h 17m 12s.xml">
       <configuration name="MyBatisTest.test7" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JdbcTemplateCRUDTest_testQueryCcount - 2020.06.28 at 09h 25m 07s.xml">
+      <configuration name="JdbcTemplateCRUDTest.testQueryCcount" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104359000" />
+    <option name="totallyTimeSpent" value="107696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -937,8 +865,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1072,49 +1001,10 @@
     <MESSAGE value="6/25 18.12" />
     <MESSAGE value="6/26 10.00" />
     <MESSAGE value="6/28 8.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/28 8.15" />
+    <MESSAGE value="6/28 9.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/28 9.20" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring_mybatis_dao/src/main/resources/com/ahut/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis_dao/src/main/java/com/ahut/service/ServiceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis_dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="36" column="19" selection-start-line="11" selection-start-column="4" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/com/ahut/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis_mapper/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis_mapper/src/main/java/com/ahut/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis_config/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_mybatis_config/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1181,13 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis_multi/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1411,7 +1294,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_maybtis_anno/src/main/java/com/ahut/mapper/RoleMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="228">
           <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1430,6 +1313,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="122" column="9" lean-forward="true" selection-start-line="122" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/java/com/ahut/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.0.5.RELEASE/spring-jdbc-5.0.5.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/java/com/ahut/test/JdbcTemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_jdbc/src/test/java/com/ahut/test/JdbcTemplateCRUDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_jdbc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis_multi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="34" selection-end-column="21" />
         </state>
       </provider>
     </entry>
