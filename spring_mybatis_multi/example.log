@@ -108,3 +108,67 @@ DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connec
 DEBUG main com.ahut.mapper.UserMapper.findAll - ==>  Preparing: select * ,o.id oid from user u ,orders o where u.id=o.uid 
 DEBUG main com.ahut.mapper.UserMapper.findAll - ==> Parameters: 
 DEBUG main com.ahut.mapper.UserMapper.findAll - <==      Total: 3
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1418334255.
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==>  Preparing: SELECT * from user u,sys_user_role ur,sys_role r where u.id=ur.userid and ur.roleid=r.id 
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==> Parameters: 
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1466073198.
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==>  Preparing: SELECT * from user u,sys_user_role ur,sys_role r where u.id=ur.userid and ur.roleid=r.id 
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findRole - <==      Total: 4
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1466073198.
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==>  Preparing: SELECT * from user u,sys_user_role ur,sys_role r where u.id=ur.userid and ur.roleid=r.id 
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findRole - <==      Total: 4
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1466073198.
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==>  Preparing: SELECT * from user u,sys_user_role ur,sys_role r where u.id=ur.userid and ur.roleid=r.id 
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findRole - <==      Total: 4
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1466073198.
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==>  Preparing: SELECT * from user u,sys_user_role ur,sys_role r where u.id=ur.userid and ur.roleid=r.id 
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findRole - <==      Total: 4
+DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG main org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1466073198.
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==>  Preparing: SELECT * from user u,sys_user_role ur,sys_role r where u.id=ur.userid and ur.roleid=r.id 
+DEBUG main com.ahut.mapper.UserMapper.findRole - ==> Parameters: 
+DEBUG main com.ahut.mapper.UserMapper.findRole - <==      Total: 4

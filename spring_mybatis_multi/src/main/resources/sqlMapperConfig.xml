@@ -8,6 +8,7 @@
     <typeAliases>
         <typeAlias type="com.ahut.domain.User" alias="user"></typeAlias>
         <typeAlias type="com.ahut.domain.Order" alias="order"></typeAlias>
+        <typeAlias type="com.ahut.domain.Role" alias="role"></typeAlias>
     </typeAliases>
     <!--    配数据源的环境-->
     <environments default="dev">

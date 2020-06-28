@@ -11,13 +11,7 @@ public class User {
     private String username;
     private String password;
 
-    //描述当前用户存在哪些订单
     private List<Order> orderList;
-
-    //描述当前用户他具备哪些角色
-
-    private List<Role> roleList;
-
     public int getId() {
         return id;
     }
@@ -50,14 +44,6 @@ public class User {
         orderList = pOrderList;
     }
 
-    public List<Role> getRoleList() {
-        return roleList;
-    }
-
-    public void setRoleList(List<Role> pRoleList) {
-        roleList = pRoleList;
-    }
-
     @Override
     public String toString() {
         return "User{" +
@@ -65,7 +51,6 @@ public class User {
                 ", username='" + username + '\'' +
                 ", password='" + password + '\'' +
                 ", orderList=" + orderList +
-                ", roleList=" + roleList +
                 '}';
     }
 }

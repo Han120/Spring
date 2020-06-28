@@ -50,4 +50,18 @@ public class MapperTest {
             System.out.println(user);
         }
     }
+    @Test
+    public void test2() throws IOException {
+
+        InputStream resourceAsStream = Resources.getResourceAsStream("sqlMapperConfig.xml");
+        SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(resourceAsStream);
+        SqlSession sqlSession = sqlSessionFactory.openSession(true);
+
+        UserMapper mapper = sqlSession.getMapper(UserMapper.class);
+
+        List<User> userList = mapper.findRole();
+        for(User user:userList) {
+            System.out.println(user);
+        }
+    }
 }

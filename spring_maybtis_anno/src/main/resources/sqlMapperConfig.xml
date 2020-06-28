@@ -7,8 +7,6 @@
     <!--配置别名-->
     <typeAliases>
         <typeAlias type="com.ahut.domain.User" alias="user"></typeAlias>
-        <typeAlias type="com.ahut.domain.Order" alias="order"></typeAlias>
-        <typeAlias type="com.ahut.domain.Role" alias="role"></typeAlias>
     </typeAliases>
     <!--    配数据源的环境-->
     <environments default="dev">
@@ -27,10 +25,9 @@
 
     </environments>
 
-    <!--加载映射文件-->
+    <!--加载映射关系-->
     <mappers>
-        <mapper resource="com/ahut/mapper/UserMapper.xml"></mapper>
-        <mapper resource="com/ahut/mapper/OrderMapper.xml"></mapper>
+        <package name="com.ahut.mapper"/>
     </mappers>
 
 
